@@ -1,0 +1,37 @@
+{
+    "id":"ag85",
+    "pet":{
+        "name":"Hacked test pet",
+        "birthday":1617314703630,
+        "sources":{
+            "color":"#2ecc71",
+            "bodyURL":"http://cdn.vortetty.tk/tippetsHack/body.png",
+            "bonusTintURL":"http://cdn.vortetty.tk/tippetsHack/bonus.png",
+            "eyesURL":"http://cdn.vortetty.tk/tippetsHack/eyes.png",
+            "mouthURL":"http://cdn.vortetty.tk/tippetsHack/mouth.png",
+            "toys":[
+                {
+                    "imgURL":"https://cdn.jsdelivr.net/gh/Sam-s-Games-And-Things/BlobAssets/BlobAssets/Toys/toys0000.png",
+                    "imgURL":"https://cdn.jsdelivr.net/gh/Sam-s-Games-And-Things/BlobAssets/BlobAssets/Toys/toys0001.png",
+                    "imgURL":"https://cdn.jsdelivr.net/gh/Sam-s-Games-And-Things/BlobAssets/BlobAssets/Toys/toys0002.png",
+                    "imgURL":"https://cdn.jsdelivr.net/gh/Sam-s-Games-And-Things/BlobAssets/BlobAssets/Toys/toys0003.png",
+                    "imgURL":"https://cdn.jsdelivr.net/gh/Sam-s-Games-And-Things/BlobAssets/BlobAssets/Toys/toys0004.png",
+                    "imgURL":"https://cdn.jsdelivr.net/gh/Sam-s-Games-And-Things/BlobAssets/BlobAssets/Toys/toys0005.png",
+                    "imgURL":"https://cdn.jsdelivr.net/gh/Sam-s-Games-And-Things/BlobAssets/BlobAssets/Toys/toys0006.png",
+                    "imgURL":"https://cdn.jsdelivr.net/gh/Sam-s-Games-And-Things/BlobAssets/BlobAssets/Toys/toys0007.png",
+                    "imgURL":"https://cdn.jsdelivr.net/gh/Sam-s-Games-And-Things/BlobAssets/BlobAssets/Toys/toys0008.png"
+                }
+            ]
+        },
+        "stats":{
+            "size":0.1,
+            "speed":5.0,
+            "stubbornness":-10.0
+        },
+        "bonus":{
+        },
+        "moderationFlags":{
+            
+        }
+    }
+}
