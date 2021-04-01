@@ -6,7 +6,7 @@
         "sources":{
             "color":"#2ecc71",
             "bodyURL":"http://cdn.vortetty.tk/tippetsHack/body.png",
-            "bonusTintURL":"http://cdn.vortetty.tk/tippetsHack/bonus.png",
+            "bonusTintURL":"http://cdn.vortetty.tk/tippetsHack/extra.png",
             "eyesURL":"http://cdn.vortetty.tk/tippetsHack/eyes.png",
             "mouthURL":"http://cdn.vortetty.tk/tippetsHack/mouth.png",
             "toys":[
